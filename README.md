@@ -1,7 +1,7 @@
-# EdgeAI-Cattle: Edge AI-Powered Multi-Modal Sensor Fusion for Early Cattle Disease Detection
+# MMSF-Net: A Multi-Modal Sensor Fusion for Early Cattle Disease Detection
 
 
-**EdgeAI-Cattle** is an edge AI-powered wearable sensor system with multi-modal sensor fusion for early disease detection in cattle operating in remote pasture environments. The system achieves **92.3% accuracy**, detects diseases **22.5 hours before clinical symptoms**, and operates **offline** without cloud dependency.
+**MMSF-Net** is an edge AI-powered wearable sensor system with multi-modal sensor fusion for early disease detection in cattle operating in remote pasture environments. The system achieves **92.3% accuracy**, detects diseases **22.5 hours before clinical symptoms**, and operates **offline** without cloud dependency.
 
 ## 🎯 Key Features
 
@@ -32,7 +32,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/EdgeAI-Cattle.git
-cd EdgeAI-Cattle
+cd MMSF-Net
 
 # Create virtual environment
 python -m venv venv
